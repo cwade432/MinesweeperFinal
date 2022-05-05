@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Caleb\source\repos\MinesweeperFinal\MinesweeperFinal\Main.cpp(41,6): warning C4101: 'flagX': unreferenced local variable
+C:\Users\Caleb\source\repos\MinesweeperFinal\MinesweeperFinal\Main.cpp(42,6): warning C4101: 'flagY': unreferenced local variable
+  Map.cpp
+C:\Users\Caleb\source\repos\MinesweeperFinal\MinesweeperFinal\Map.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  MinesweeperFinal.vcxproj -> C:\Users\Caleb\source\repos\MinesweeperFinal\Debug\MinesweeperFinal.exe
